@@ -9,7 +9,7 @@ Misc type names:
 	LayoutDrawMgr (likely in WSR onwards)
 
 
-(These do have source files, but they don't really serve much purpose to be included)
+(These do have source file names, but they don't really serve much purpose to be included)
 WSC layout class names:
 	SplGlfLytClubSelect
 	SplGlfLytDisplayCmd
