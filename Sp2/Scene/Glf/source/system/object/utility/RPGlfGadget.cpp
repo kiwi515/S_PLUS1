@@ -1,0 +1,2 @@
+// "past < GetSize()"
+void ToIndex();

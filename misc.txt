@@ -1,0 +1,31 @@
+There are a lot of type names scattered around the executable, but it's hard to distinguish them between being unique to WSC, and possibly being a leftover from the earlier games. 
+As such, I've only included ones that begin with "RP" and/or are generic enough to have appearred across all the Wii Sports games.
+
+Misc type names:
+	RPSysObjAsSceneLoading
+	RPSysSysMsgWinMgr
+	RPSysDVDStatus
+	RPSysPauseMenuBgLyt
+	LayoutDrawMgr (likely in WSR onwards)
+
+
+(These do have source files, but they don't really serve much purpose to be included)
+WSC layout class names:
+	SplGlfLytClubSelect
+	SplGlfLytDisplayCmd
+	SplGlfLytDistance
+	SplGlfLytFullScore
+	SplGlfLytHoleDemo
+	SplGlfLytHoleOut
+	SplGlfLytIntroPlayer
+	SplGlfLytLiePin
+	SplGlfLytOperateBtn
+	SplGlfLytResultEffect
+	SplGlfLytScoreArg
+	SplGlfLytShotCount
+	SplGlfLytShotInfo
+	SplGlfLytTrainingPoint
+	SplGlfLytTrainingScore
+	SplGlfLytTrainingTime
+	SplGlfLytTutorialD
+	SplGlfLytTutorialW
