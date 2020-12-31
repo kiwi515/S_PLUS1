@@ -1,0 +1,2 @@
+// "_bottom"
+void GetPos();

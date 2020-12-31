@@ -1,0 +1,2 @@
+// "_seq"
+void Reset();

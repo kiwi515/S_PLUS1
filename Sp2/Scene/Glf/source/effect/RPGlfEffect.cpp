@@ -1,0 +1,2 @@
+// "!_effect"
+void Setup();

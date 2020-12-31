@@ -1,6 +1,8 @@
 const int TEAM_SIZE = 2;
 const int RESO_MAX1 = 256;
 
+const float NOT_SIMED = -9999.0f;
+
 // "index < TEAM_SIZE"
 // WSC??
 void GetSystemID(unsigned int index);
@@ -48,3 +50,25 @@ void GetSwingFrame();
 
 // "_ball"
 void GetBallPos();
+
+// sizeof math is just array count
+// "index < (sizeof(_watch) / (sizeof(_watch[0])))"
+void Standby();
+
+// "index < TEAM_SIZE"
+void Update();
+
+// "index < TEAM_SIZE"
+void Order();
+
+// Was this supposed to say "not SIGNED"?
+// "p != NOT_SIMED"
+// "s._dist[prev+i] == NOT_SIMED"
+// "n != NOT_SIMED"
+// "s._dist[next - i] == NOT_SIMED"
+void ClubSimulate();
+
+// "_ball"
+void ReplayStart();
+void ReplayStop();
+void ReplayShot();

@@ -7,6 +7,14 @@ Misc type names:
 	RPSysDVDStatus
 	RPSysPauseMenuBgLyt
 	LayoutDrawMgr (likely in WSR onwards)
+	RPGrpTextureManager
+		->CreateTextureFromTgaAsync()
+	RPUtlRandom
+		->getU32()
+	RPGrpViewShadowMap
+		->OnDestroy()
+	RPSysPauseMenuBgLyt
+	
 
 
 (These do have source file names, but they don't really serve much purpose to be included)

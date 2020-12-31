@@ -86,4 +86,5 @@ void GetHoleName();
 // "GetInstance()"
 void GetAnim();
 
+// "GetInstance()"
 void GetHoleType();
